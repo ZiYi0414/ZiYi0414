@@ -7,7 +7,7 @@
 
 > 🥺 Standing on the Shoulders of Giants.
 
-Hi,我是一个不是很肥也不是特别宅的肥宅😳，代码写的很烂，希望有大佬带带。  [ZyeeBlog](https://zyeeblog.com/#/) 
+Hi,我是一个不是很肥也不是特别宅的肥宅😳，代码写的很烂，希望有大佬带带。  [NoPatience myBlog](https://nopatience.cn/#/) 
 
 本来有介绍的，被人说油腻男。删了
 
