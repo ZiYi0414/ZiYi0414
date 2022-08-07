@@ -3,13 +3,13 @@
 
 ## ZYKKOne-11
 
-> " a Funny Coder "（ 也许是个艺术家或肥宅,
+> " a Funny Coder "（ 也许是个艺术家或肥宅,                                  😐 😑 😶
 
 > Standing on the Shoulders of Giants.
 
 Hi, My Blog() => [NoPatience myBlog](https://nopatience.cn/#/) 
 
-你好，世界。
+你好，世界。😳
 
 ## 经常喜欢胡言乱语
 
