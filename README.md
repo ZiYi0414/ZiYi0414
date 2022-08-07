@@ -23,6 +23,9 @@ Hi, My Blog() => [NoPatience myBlog](https://nopatience.cn/#/)
 
 「 我和和我 」
 
-<div style="display:none;"><img align="left"  src='https://github-readme-stats.vercel.app/api?username=ZYKKOne-11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]'>
-
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZYKKOne-11&theme=monokai" /></div>
+<a>
+<img align="center"  src='https://github-readme-stats.vercel.app/api?username=ZYKKOne-11&show_icons=true&include_all_commits=true&title_color=ecf0f1&icon_color=9b59b6&text_color=ecf0f1&bg_color=2c3e50&custom_title=ZiYi414🙄'>
+</a>
+<a>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZYKKOne-11&theme=2077" />
+</a>
