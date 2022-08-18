@@ -13,7 +13,7 @@ Hi, My Blog() => [NoPatience myBlog](https://nopatience.cn/#/)
 
 Hello，Yours World。
 
-## 经常喜欢胡言乱语
+## What the hell
 
 「 Love Hooks 」「 只要你开口, 我们就能飞向云端 」
 「 危机就是转机. 」「 大逆转 」「 我和和我 」
