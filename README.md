@@ -8,7 +8,8 @@
 
 > comp sci. cv engineer & visual design enthusiast
 
-Hi, let My_Blog = () => [NoPatience myBlog](https://nopatience.cn/#/) 
+Hi, 
+let My_Blog = (mine: cve ): void => [NoPatience myBlog](https://nopatience.cn/#/) 
 
 Hello，Yours World。
 
