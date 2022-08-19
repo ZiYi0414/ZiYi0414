@@ -8,7 +8,7 @@
 
 > comp sci. cv engineer & visual design enthusiast
 
-Hi, My Blog() => [NoPatience myBlog](https://nopatience.cn/#/) 
+Hi, let My_Blog = () => [NoPatience myBlog](https://nopatience.cn/#/) 
 
 Hello，Yours World。
 
