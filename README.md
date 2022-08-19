@@ -13,10 +13,9 @@ Hi, My Blog() => [NoPatience myBlog](https://nopatience.cn/#/)
 Hello，Yours World。
 
 ## What the hell
-
+「 地铁NFC失灵狂魔 」
 「 Love Hooks 」「 只要你开口, 我们就能飞向云端 」
 「 危机就是转机. 」「 大逆转 」「 我和和我 」
-
 
 <a>
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZiYi0414&theme=nord_dark" />
