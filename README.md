@@ -13,9 +13,17 @@ let My_Blog = (mine: cve ): void => [NoPatience myBlog](https://nopatience.cn/#/
 
 Hello，Yours World。
 
+## Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
 ## What the hell
 「 地铁NFC失灵狂魔 」
-「 Love Hooks 」「 只要你开口, 我们就能飞向云端 」
+「 Love Hooks 」
+「 只要你开口, 我们就能飞向云端 」
 「 危机就是转机. 」「 大逆转 」「 我和和我 」
 
 <a>
