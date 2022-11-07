@@ -9,7 +9,9 @@
 > comp sci. cv engineer & visual design enthusiast
 
 Hi, 
-let My_Blog = (mine: cve ): void => [NoPatience myBlog](https://nopatience.cn/#/) 
+let My_Blog = (mine: cve ): void => [luyiin.me](https://luyiin.me) 
+
+~~const old paper = [NoPatience myBlog](https://nopatience.cn/#/)~~
 
 Hello，Yours World。
 
