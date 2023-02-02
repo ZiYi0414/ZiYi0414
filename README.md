@@ -11,8 +11,6 @@
 Hi, 
 let My_Blog = (mine: cve ): void => [luyiin.me](https://luyiin.me) 
 
-~~const old paper = [NoPatience myBlog](https://nopatience.cn/#/)~~
-
 Hello，Yours World。
 
 ## Languages and Tools
