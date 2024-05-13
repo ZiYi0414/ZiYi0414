@@ -9,7 +9,7 @@
 > comp sci. cv engineer & visual design enthusiast
 
 Hi, 
-let My_Blog = (mine: cve ): void => [luyiin.me](https://luyiin.me) 
+let My_Blog = (mine: cve ): site => [luyiin.me](https://luyiin.me) 
 
 Hello，Yours World。
 
