@@ -21,10 +21,7 @@ Hello，Yours World。
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 ## What the hell
-「 地铁NFC失灵狂魔 」
-「 Love Hooks 」
-「 只要你开口, 我们就能飞向云端 」
-「 危机就是转机. 」「 大逆转 」「 我和和我 」
+「 动物森友会 」
 
 |![github-stats][github-stats:img]|![github-lang][github-lang:img]|
 |---------------------------------|------------------------------------------|
